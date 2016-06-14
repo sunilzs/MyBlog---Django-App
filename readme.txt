@@ -1,0 +1,1 @@
+A simple blog web app on Django
